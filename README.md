@@ -4,7 +4,8 @@
 - 📕: Desenvolvedor backend 
 - 🏃: Busco entrar melhorar minhas habilidades e concretizar meus projetos
 - 🖥️: Sou extremamente familiarizado com computador no geral sendo criado na frente de um
-- ♥️: Amo Jogos, academia e programar
+- 📈: Trabalhei no setor de vendas de produtos High Ticket, adquirindo habilidades em prospecção e qualificação de leads
+- ♥️: Amo Jogos, academia e programar.
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" />
