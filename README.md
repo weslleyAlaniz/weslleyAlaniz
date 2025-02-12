@@ -1,8 +1,7 @@
 # Olá, Aqui é o Weslley ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🏭: Atualmente trabalho na area industrial
-- 📕: Estudo a area de tecnologia na Alura Cursos Online
+- 📕: Desenvolvedor backend 
 - 🏃: Busco entrar melhorar minhas habilidades e concretizar meus projetos
 - 🖥️: Sou extremamente familiarizado com computador no geral sendo criado na frente de um
 - ♥️: Amo Jogos, academia e programar
