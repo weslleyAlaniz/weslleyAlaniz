@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 📕: Desenvolvedor backend 
-- 🏃: Busco entrar melhorar minhas habilidades e concretizar meus projetos
+- 🏃: Busco melhorar minhas habilidades e concretizar meus projetos
 - 🖥️: Sou extremamente familiarizado com computador no geral sendo criado na frente de um
 - 📈: Trabalhei no setor de vendas de produtos High Ticket, adquirindo habilidades em prospecção e qualificação de leads
 - ♥️: Amo Jogos, academia e programar.
